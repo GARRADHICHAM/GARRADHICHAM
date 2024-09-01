@@ -1,8 +1,9 @@
-# 🏄‍♂️ Forrest Knight
+# 🏄‍♂️ GARRAD HICHAM
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Etudiant en Master 1 en business intelligence & big data analytics || Junior Data scientist`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
+Hello, my name is Hicham Garrad, and I am a passionate big data student and software developer based in Morocco. I have a strong interest in leveraging data-driven insights and cutting-edge technology to solve complex problems.
+Currently, I am pursuing a Master degree (M1) in Business intelligence and Big Data Analytics at the Université of shouaib doukali El Jadida, where I am gaining in-depth knowledge and practical experience in the field of big data. Through my coursework and projects, I have developed a solid foundation in statistical analysis, machine learning, data visualization, and programming.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
