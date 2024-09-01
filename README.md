@@ -55,13 +55,8 @@ Currently, I am pursuing a Master degree (M1) in Business intelligence and Big D
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=GARRADHICHAM&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=GARRADHICHAM&theme=gruvbox&border_radius=4.5) -->
 
 
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
