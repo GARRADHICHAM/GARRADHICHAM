@@ -41,6 +41,14 @@ Currently, I am pursuing a Master degree (M1) in Business intelligence and Big D
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=GARRADHICHAM&theme=gruvbox&border_radius=4.5) -->
 
 #
+
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/GARRADHICHAM/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/GARRADHICHAM/github-stats-transparent/output/generated/languages.svg)
+
+</a>
 <!--
 <details>
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
