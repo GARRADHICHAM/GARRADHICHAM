@@ -7,9 +7,9 @@ Currently, I am pursuing a Master degree (M1) in Business intelligence and Big D
 
  </p>
 <img  height="170px" width="350px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
-</br>
+
  
----
+
 
 ### 🧰 Languages and Tools
 
