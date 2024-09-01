@@ -4,6 +4,7 @@
 
 Hello, my name is Hicham Garrad, and I am a passionate big data student and software developer based in Morocco. I have a strong interest in leveraging data-driven insights and cutting-edge technology to solve complex problems.
 Currently, I am pursuing a Master degree (M1) in Business intelligence and Big Data Analytics at the Université of shouaib doukali El Jadida, where I am gaining in-depth knowledge and practical experience in the field of big data. Through my coursework and projects, I have developed a solid foundation in statistical analysis, machine learning, data visualization, and programming.
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 
  
 ---
