@@ -2,8 +2,22 @@
 
 <h2> BI and Big data analytics student || Junior Data scientist </h2>
 
-<p align="left">Hello, my name is Hicham Garrad, and I am a passionate big data student and software developer based in Morocco. I have a strong interest in leveraging data-driven insights and cutting-edge technology to solve complex problems.
-Currently, I am pursuing a Master degree (M1) in Business intelligence and Big Data Analytics at the Université of shouaib doukali El Jadida, where I am gaining in-depth knowledge and practical experience in the field of big data. Through my coursework and projects, I have developed a solid foundation in statistical analysis, machine learning, data visualization, and programming.
+<p align="left">👨‍💼 Bonjour, je m'appelle Hicham Garrad, diplômé d’un Master en Business Intelligence & Big Data et passionné par la data science et l’intelligence artificielle. Installé en France et actuellement en Master 2 MIAGE – IA Appliquée à l’Université Côte d’Azur, je suis immédiatement disponible pour une alternance afin de mettre mes compétences en pratique dans un environnement stimulant.
+
+🎯 Je recherche une alternance dans le domaine de la data, de l’IA ou du développement web.
+
+🎓 Diplômé d’un Master 2 en Intelligence d’Affaires et Big Data Analytics.
+🌟 Expérience professionnelle diversifiée avec 3 stages d’au moins 2 mois chacun.
+🔑 Compétences clés : Big Data, Data Science, Machine Learning (ML), Deep Learning (DL), Analyse de données avancée, Développement Python, Développement Web, Cloud Computing.
+👩🏽‍💻 Langages : Python, Java, JavaScript, PHP.
+📊 Data Science : TensorFlow, scikit-learn, Keras, Pandas, NumPy, Matplotlib, Plotly, Seaborn, OpenCV, LLM, NLP, Power BI, Google Looker, GPT.
+💽 Bases de données et Big Data : SQL, MongoDB, GraphQL, Apache Spark, Apache Hadoop, SQL Server, MySQL, ETL, pipelines de données, Kafka, Airflow, Docker, Amazon S3, Data Warehousing.
+💻 Développement web : Next.js, Tailwind CSS, FastAPI, HTML, CSS, JavaScript.
+💾 Développement logiciel, systèmes (Linux/Windows), programmation réseau.
+👨‍💻 Cloud et virtualisation.
+🏗️ Conception de systèmes avec UML, Merise, méthodologies Agile.
+🤝 Esprit d’équipe, rigueur, adaptabilité et compétences en gestion de projet.
+💪 Déterminé, motivé, apprenant rapide et orienté résultats.
 
  </p>
 
