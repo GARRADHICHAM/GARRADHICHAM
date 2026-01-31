@@ -1,8 +1,8 @@
 # 🏄‍♂️ GARRAD HICHAM
 
-<h2> BI and Big data analytics student || Junior Data scientist </h2>
+<h2>Full stack AI developer </h2>
 
-<p align="left">👨‍💼 Bonjour, je m'appelle Hicham Garrad, diplômé d’un Master en Business Intelligence & Big Data et passionné par la data science et l’intelligence artificielle. Installé en France et actuellement en Master 2 MIAGE – IA Appliquée à l’Université Côte d’Azur, je suis immédiatement disponible pour une alternance afin de mettre mes compétences en pratique dans un environnement stimulant.
+<p align="left">👨‍💼Bonjour, je m'appelle Hicham Garrad, diplômé d’un Master en Business Intelligence & Big Data et passionné par la data science et l’intelligence artificielle. Installé en France et actuellement en Master 2 MIAGE – IA Appliquée à l’Université Côte d’Azur, je suis immédiatement disponible pour un stage afin de mettre mes compétences en pratique dans un environnement stimulant.
 
 🎯 Je recherche une alternance dans le domaine de la data, de l’IA ou du développement web.
 
