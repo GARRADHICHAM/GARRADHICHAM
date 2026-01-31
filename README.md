@@ -6,18 +6,18 @@
 
 🎯 Je recherche une alternance dans le domaine de la data, de l’IA ou du développement web.
 
-🎓 Diplômé d’un Master 2 en Intelligence d’Affaires et Big Data Analytics.
-🌟 Expérience professionnelle diversifiée avec 3 stages d’au moins 2 mois chacun.
-🔑 Compétences clés : Big Data, Data Science, Machine Learning (ML), Deep Learning (DL), Analyse de données avancée, Développement Python, Développement Web, Cloud Computing.
-👩🏽‍💻 Langages : Python, Java, JavaScript, PHP.
-📊 Data Science : TensorFlow, scikit-learn, Keras, Pandas, NumPy, Matplotlib, Plotly, Seaborn, OpenCV, LLM, NLP, Power BI, Google Looker, GPT.
-💽 Bases de données et Big Data : SQL, MongoDB, GraphQL, Apache Spark, Apache Hadoop, SQL Server, MySQL, ETL, pipelines de données, Kafka, Airflow, Docker, Amazon S3, Data Warehousing.
-💻 Développement web : Next.js, Tailwind CSS, FastAPI, HTML, CSS, JavaScript.
-💾 Développement logiciel, systèmes (Linux/Windows), programmation réseau.
-👨‍💻 Cloud et virtualisation.
-🏗️ Conception de systèmes avec UML, Merise, méthodologies Agile.
-🤝 Esprit d’équipe, rigueur, adaptabilité et compétences en gestion de projet.
-💪 Déterminé, motivé, apprenant rapide et orienté résultats.
+🎓 Diplômé d’un Master 2 en Intelligence d’Affaires et Big Data Analytics.<br>
+🌟 Expérience professionnelle diversifiée avec 3 stages d’au moins 2 mois chacun.<br>
+🔑 Compétences clés : Big Data, Data Science, Machine Learning (ML), Deep Learning (DL), Analyse de données avancée, Développement Python, Développement Web, Cloud Computing.<br>
+👩🏽‍💻 Langages : Python, Java, JavaScript, PHP.<br>
+📊 Data Science : TensorFlow, scikit-learn, Keras, Pandas, NumPy, Matplotlib, Plotly, Seaborn, OpenCV, LLM, NLP, Power BI, Google Looker, GPT.<br>
+💽 Bases de données et Big Data : SQL, MongoDB, GraphQL, Apache Spark, Apache Hadoop, SQL Server, MySQL, ETL, pipelines de données, Kafka, Airflow, Docker, Amazon S3, Data Warehousing.<br>
+💻 Développement web : Next.js, Tailwind CSS, FastAPI, HTML, CSS, JavaScript.<br>
+💾 Développement logiciel, systèmes (Linux/Windows), programmation réseau.<br>
+👨‍💻 Cloud et virtualisation.<br>
+🏗️ Conception de systèmes avec UML, Merise, méthodologies Agile.<br>
+🤝 Esprit d’équipe, rigueur, adaptabilité et compétences en gestion de projet.<br>
+💪 Déterminé, motivé, apprenant rapide et orienté résultats.<br>
 
  </p>
 
