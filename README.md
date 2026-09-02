@@ -1,26 +1,21 @@
 # 🏄‍♂️ GARRAD HICHAM
-
-<h2>Full stack AI developer </h2>
-
-<p align="left">👨‍💼Bonjour, je m'appelle Hicham Garrad, diplômé d’un Master en Business Intelligence & Big Data et passionné par la data science et l’intelligence artificielle. Installé en France et actuellement en Master 2 MIAGE – IA Appliquée à l’Université Côte d’Azur, je suis immédiatement disponible pour un stage afin de mettre mes compétences en pratique dans un environnement stimulant.
-
-🎯 Je recherche une alternance dans le domaine de la data, de l’IA ou du développement web.
-
-🎓 Diplômé d’un Master 2 en Intelligence d’Affaires et Big Data Analytics.<br>
-🌟 Expérience professionnelle diversifiée avec 3 stages d’au moins 2 mois chacun.<br>
-🔑 Compétences clés : Big Data, Data Science, Machine Learning (ML), Deep Learning (DL), Analyse de données avancée, Développement Python, Développement Web, Cloud Computing.<br>
-👩🏽‍💻 Langages : Python, Java, JavaScript, PHP.<br>
-📊 Data Science : TensorFlow, scikit-learn, Keras, Pandas, NumPy, Matplotlib, Plotly, Seaborn, OpenCV, LLM, NLP, Power BI, Google Looker, GPT.<br>
-💽 Bases de données et Big Data : SQL, MongoDB, GraphQL, Apache Spark, Apache Hadoop, SQL Server, MySQL, ETL, pipelines de données, Kafka, Airflow, Docker, Amazon S3, Data Warehousing.<br>
-💻 Développement web : Next.js, Tailwind CSS, FastAPI, HTML, CSS, JavaScript.<br>
-💾 Développement logiciel, systèmes (Linux/Windows), programmation réseau.<br>
-👨‍💻 Cloud et virtualisation.<br>
+<h2>Full Stack AI Engineer</h2>
+<p align="left">👨‍💼 Bonjour, je m'appelle Hicham Garrad, jeune diplômé du Master 2 MIAGE – Intelligence Artificielle Appliquée à l'Université Côte d'Azur, passionné par la data science, l'IA générative et le développement full stack. Installé en France, je suis immédiatement disponible pour un CDI.
+🎯 Je recherche un CDI dans les domaines de l'IA, de la data ou du développement full stack.
+🎓 Diplômé d'un Master 2 MIAGE – Intelligence Artificielle Appliquée (Université Côte d'Azur) et d'un Master en Business Intelligence & Big Data Analytics.<br>
+🌟 4 expériences professionnelles en data et IA depuis 2023 : fintech, imagerie médicale, mobilité, industries culturelles.<br>
+🔑 Compétences clés : IA générative, Agents LLM, RAG, Machine Learning (ML), Deep Learning (DL), Data Engineering, Développement Full Stack, MLOps, Cloud Computing.<br>
+👩🏽‍💻 Langages : Python, TypeScript, JavaScript, SQL, Java.<br>
+🤖 IA générative & Agents : RAG, Agents LLM, LangChain, Google ADK, protocole MCP, Claude Code, Anthropic/Claude, OpenAI, Mistral, LLaMA, embeddings, prompt engineering.<br>
+📊 Data Science : TensorFlow, PyTorch, Scikit-learn, Keras, XGBoost, Pandas, NumPy, feature engineering, NLP.<br>
+💽 Bases de données et Big Data : SQL, PostgreSQL, MySQL, MongoDB, Apache Spark, Apache Airflow, Kafka, ETL/ELT, Data Warehousing.<br>
+💻 Développement web : FastAPI, Next.js, React, API REST, HTML, CSS, JavaScript.<br>
+☁️ Cloud & Infrastructure : AWS (S3, EC2, Lambda), GCP (Cloud Run), Azure, Docker, Kubernetes, CI/CD (GitHub Actions).<br>
+🔒 IA responsable : audit et conformité (AI Act), détection de biais, explicabilité (SHAP, LIME) — co-fondateur d'EthicAI, extension VS Code d'audit éthique des modèles IA.<br>
 🏗️ Conception de systèmes avec UML, Merise, méthodologies Agile.<br>
-🤝 Esprit d’équipe, rigueur, adaptabilité et compétences en gestion de projet.<br>
+🤝 Esprit d'équipe, rigueur, adaptabilité et compétences en gestion de projet.<br>
 💪 Déterminé, motivé, apprenant rapide et orienté résultats.<br>
-
  </p>
-
 ###
 
 <div align="left">
